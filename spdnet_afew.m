@@ -4,7 +4,8 @@ rng('default');
 rng(0) ;
 format long;
 
-cd('C:\Users\andre\OneDrive - Università degli Studi di Macerata\Articolo Zhang Palma\matlabSPDNET_final\')
+cd('C:\Users\andre\OneDrive - Università degli Studi di Macerata\Articolo Palma\RE-SPDNET\') 
+%change with your Path%
 
 %--ARGS--%
 
