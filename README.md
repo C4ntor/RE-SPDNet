@@ -21,7 +21,7 @@ Clone the repository
 ```
 to generate data and perform predictions of alternative models
 
-2. Save locally the simulated data (from R workspace) in the RE-SPDNET/data folder. Ensure the file is .csv of vectorized covariance matrix, where columns correspond to distinct elements of the matrix, and rows to time observations. 
+2. Save locally the simulated data (from R workspace) in the RE-SPDNET/data folder. Ensure the file is .csv of vectorized covariance matrix, where columns correspond to distinct elements of the matrix, and rows to time observations. First row contains headers
 
 3.  Launch  
 ```bash
